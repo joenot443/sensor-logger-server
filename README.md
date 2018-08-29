@@ -17,12 +17,12 @@ To export data as CSV, browse to http://localhost:3000/accelcsv. If there's data
 
 Swap out `accel` for `gyro` or `magnet`, depending on which sensor you'd like to download the data for.
 
-##Contribute
+## Contribute
 
 I'm by no means a node.js developer, I made this server largely as a starting point for developers who want to use Sensor Logger - it should absolutely be customized to the user's specific needs. 
 
 If you see major flaws in the server's code, please submit an Issue or PR and I'll be happy to update it. 
 
-##Additional Help
+## Additional Help
 
 I can be contacted at my website, www.joecrozier.ca, or by twitter at @joe_crozier.
